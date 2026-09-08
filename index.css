@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
-
 html,
 body {
   margin: 0;
@@ -12,7 +10,7 @@ body {
   color: #1a1a1a;
 }
 
-/* ─── Header ─────────────────────────────── */
+
 
 header {
   background: #000;
@@ -48,7 +46,6 @@ header > h1 {
   text-transform: uppercase;
 }
 
-/* ─── Page container ─────────────────────── */
 
 .container {
   max-width: 740px;
@@ -56,7 +53,6 @@ header > h1 {
   padding: 48px 24px 64px;
 }
 
-/* ─── Entry card ─────────────────────────── */
 
 article.journal-entry {
   display: flex;
@@ -88,7 +84,6 @@ article.journal-entry:hover .main-image {
   transform: scale(1.03);
 }
 
-/* ─── Info container ─────────────────────── */
 
 .info-container {
   padding: 24px 28px;
@@ -97,7 +92,7 @@ article.journal-entry:hover .main-image {
   justify-content: center;
 }
 
-/* ─── Location row ───────────────────────── */
+
 
 .location-row {
   display: flex;
@@ -131,7 +126,7 @@ article.journal-entry:hover .main-image {
   color: #ffcc00;
 }
 
-/* ─── Text content ───────────────────────── */
+
 
 h2.entry-title {
   font-size: 1.35rem;
@@ -163,7 +158,6 @@ p.entry-text {
   overflow: hidden;
 }
 
-/* ─── Mobile ─────────────────────────────── */
 
 @media (max-width: 540px) {
   article.journal-entry {
