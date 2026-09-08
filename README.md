@@ -10,8 +10,7 @@
 
 ## 📸 Preview
 
-<!-- Add a 740px-wide screenshot after your next deploy -->
-<img width="740" alt="Travel Journal homepage" src="./screenshots/preview.png">
+<img width="1098" height="812" alt="My Travel Journal" src="https://github.com/user-attachments/assets/73c2e3c8-98fd-4685-a1a4-be86a6271680" />
 
 ---
 
