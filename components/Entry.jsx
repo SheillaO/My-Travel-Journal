@@ -1,6 +1,4 @@
-/**
- * Challenge: Fix our component! 😱
- */
+
 
 export default function Entry(props) {
     return (
