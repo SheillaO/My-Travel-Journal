@@ -1,3 +1,5 @@
+import marker from "../images/marker.png";
+
 export default function Entry(props) {
   return (
     <article className="journal-entry">
