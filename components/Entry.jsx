@@ -9,7 +9,7 @@ export default function Entry(props) {
         <div className="location-row">
           <img
             className="marker"
-            src="/images/marker.png"
+            src="../images/marker.png"
             alt="location marker"
           />
           <span className="country">{props.country}</span>
