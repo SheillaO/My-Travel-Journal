@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     img: {
-      src: "https://unsplash.com/photos/shallow-focus-photo-of-green-plants-LLG12OKmR_c",
+      src: "https://unsplash.com/photos/a-giraffe-standing-in-a-field-with-a-mountain-in-the-background-HdGi5jMm4vE",
       alt: "Karura Forest trail, Nairobi",
     },
     title: "Karura Forest",
@@ -15,7 +15,7 @@ export default [
   {
     id: 2,
     img: {
-      src: "https://unsplash.com/photos/brown-rocky-mountain-under-blue-sky-during-daytime-B21WLsX6a5c",
+      src: "https://images.unsplash.com/photo-1504197644482-b75213e44ea9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Table Mountain overlooking Cape Town",
     },
     title: "Table Mountain",
@@ -28,7 +28,7 @@ export default [
   {
     id: 3,
     img: {
-      src: "https://unsplash.com/photos/a-body-of-water-with-a-city-in-the-background-tm75RWR6LOg",
+      src: "https://plus.unsplash.com/premium_photo-1754337682092-1b4119edc3de?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Lagos Island waterfront at dusk",
     },
     title: "Lagos Island",
@@ -41,7 +41,7 @@ export default [
   {
     id: 4,
     img: {
-      src: "https://unsplash.com/photos/a-very-tall-tower-with-a-clock-on-its-side-5o58ghGruJQ",
+      src: "https://images.unsplash.com/photo-1653323792487-6ecc6217040b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Jemaa el-Fna square at dusk, Marrakech",
     },
     title: "Jemaa el-Fna",
@@ -54,7 +54,7 @@ export default [
   {
     id: 5,
     img: {
-      src: "https://unsplash.com/photos/the-sun-is-setting-over-a-city-by-the-ocean-YLjr2KYpzMw",
+      src: "https://images.unsplash.com/photo-1629553032544-3c1477c0eac9?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Stone Town alleyway, Zanzibar",
     },
     title: "Stone Town",
@@ -67,7 +67,7 @@ export default [
   {
     id: 6,
     img: {
-      src: "https://unsplash.com/photos/buffalo-herd-in-the-okavango-delta-Eac3P24AK9c",
+      src: "https://plus.unsplash.com/premium_photo-1661954391908-6ebd9471785c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Victoria Falls from the Zimbabwe side",
     },
     title: "Victoria Falls",
