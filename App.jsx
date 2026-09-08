@@ -8,7 +8,7 @@ const entryElement = data.map((entry) => (
 
 export default function App() {
     return (
-        <div>
+        <div className="container">
             <Header />
             {entryElement}
         </div>
